@@ -8,7 +8,7 @@ gem 'sqlite3'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
-gem 'sass-rails', '~> 5.0'
+gem 'sass-rails', '~> 5.0.3'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
@@ -28,7 +28,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 
 # learn rails gems
-gem 'foundation-rails'
+gem 'foundation-rails', '~> 5.5'
 gem 'simple_form'
 gem 'high_voltage', '~> 3.0.0'
 gem 'gibbon'
